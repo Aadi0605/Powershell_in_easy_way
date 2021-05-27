@@ -1,0 +1,11 @@
+				** Powershell Basic **
+				
+				
+--> Powershell used to run in verb-noun pattern 
+For example :
+	Verb-noun (Here Verb is some task or in hindi "Kriya" and noun is some work , function )
+	get-service
+	set-service 
+	
+--> For finding anything or 1st basic command of powershell 
+		get-help *service*
